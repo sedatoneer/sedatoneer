@@ -24,7 +24,8 @@
 
 ## 🚀 Projects
 
-- [Equaliter](https://github.com/sedatoneer/equaliter) — Hand tracking audio controller with MediaPipe & Pygame 
+- [Equaliter](https://github.com/sedatoneer/equaliter) — Hand tracking audio controller with MediaPipe & Pygame
+- [Remote TV with WhatsApp](https://github.com/sedatoneer/whatsapp-remote) — Mi Box Controller with WhatsApp
 
 ---
 
